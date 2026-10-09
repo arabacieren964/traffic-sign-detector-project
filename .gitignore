@@ -1,5 +1,5 @@
 __pycache__/
- .venv01/
-  data
-  runs
-  *pyc
+.venv01/
+data
+runs
+*pyc
